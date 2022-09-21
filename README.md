@@ -1,4 +1,4 @@
-<img src="C:\Users\Nick\Desktop\Pottencial_edit.png" alt="Pottencial BootCamp" style="zoom:20%;" align="left" />
+<img src="https://github.com/NickBR06/Estudos-DIO/blob/main/configs/Pottencial_edit.png" alt="Pottencial BootCamp" style="zoom:20%;" align="left" />
 
 ***
 
